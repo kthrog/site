@@ -8,7 +8,7 @@ categories:
 img: OSOSLibraryOG.jpg
 thumb: OSOSLibraryOG.jpg
 carousel:
-- WAStateLibrarySlide.jpg
+- WAStateLibrarySlide.png
 tagged: data literacy, civic data, open data
 client: Washington State Library
 website: 
