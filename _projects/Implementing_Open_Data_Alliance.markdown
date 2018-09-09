@@ -8,7 +8,7 @@ categories:
 img: CityofSeattle.png
 thumb: CityofSeattle.png
 carousel:
-- 
+- ODA.png
 tagged: data literacy, civic data, open data
 client: The City of Seattle and the Office of the Chief Information Officer
 website: 
