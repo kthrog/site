@@ -5,8 +5,8 @@ date:   2018-06-01 12:00:00
 author: Kathleen Sullivan
 categories:
 - project
-img: OSOSLibraryOG.jpg
-thumb: OSOSLibraryOG.jpg
+img: WALibrary.png
+thumb: WALibrary.png
 carousel:
 - WAStateLibrarySlide.png
 tagged: data literacy, civic data, open data
